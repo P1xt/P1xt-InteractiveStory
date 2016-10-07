@@ -7,6 +7,9 @@ Android Application created during the course Build an Interactive Story App on 
 
 ## User Stories
 
+## Mockups
+
+<img src="docs/interactive_story_mockups.png" width="600px" alt="Mockups">
 
 ## Rationale
 
